@@ -1,0 +1,29 @@
+#data-area {
+  margin-top: 10px;
+}
+
+.item-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.item-table th,
+.item-table td {
+  border-bottom: 1px solid #000;
+  padding: 6px;
+  text-align: left;
+}
+
+.category-icon {
+  width: 20px;
+}
+
+.delete-icon {
+  width: 20px;
+  cursor: pointer;
+}
+
+#error-message {
+  color: red;
+  margin-top: 5px;
+}
